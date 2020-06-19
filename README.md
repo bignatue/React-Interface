@@ -1,5 +1,7 @@
 ## Building Interface | React
 
+![Design preview for Interface](./preview.jpg)
+
 ### Learning Objectives
 
 Building a basic app with create-react-app
